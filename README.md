@@ -1,4 +1,7 @@
-# pyspark_notes
+# spark_notes
+
+### Setting up Scala (build) with VSCode
+- https://www.youtube.com/watch?v=iATmBDxlYAA&list=PLTx-VKTe8yLxYQfX_eGHCxaTuWvvG28Ml&index=10
 
 ### Environment Management Articles
 - https://www.inovex.de/blog/isolated-virtual-environments-pyspark/
