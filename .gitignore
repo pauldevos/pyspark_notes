@@ -65,3 +65,5 @@ project/**/metals.sbt
 .DS_Store
 .metals/
 .vscode/
+
+*/data/*
